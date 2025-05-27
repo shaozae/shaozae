@@ -10,7 +10,7 @@ Quick Overview:
 
   Always excited to connect with fellow devs. You can reach out to me through the following channels:
 
-  * Website: [shaozae.in](https://shaozae.in)
+  * Website: [shaozae.me](https://shaozae.me)
   * E-mail: shaozae@gmail.com
   * LinkedIn: [Vishodu Shaozae](https://www.linkedin.com/in/shaozae)
 
